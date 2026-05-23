@@ -9,6 +9,14 @@ For increased performance, Store solutions to sub problems so that you can solve
 - Recurrence relation: A formula that expresses the solution to the problem in terms of the solutions to its subproblems.
 - Base cases
 
+# How to approach:
+
+- Find the Recurrence Relation
+- Identify the Base Case(s)
+- Write the Recursive Solution
+- Add Memoization
+- Convert to "Bottom-Up" DP
+- Further Optimization
 
 # Interview Tip
 
